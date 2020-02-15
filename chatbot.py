@@ -85,11 +85,11 @@ def check_for_greeting(sentence):
         print("What type of song you want?")
         j=input()
         if "hindi" in j:
-            print("You shound go for Saavn.com or Gaana.com")
+            print("You should go for Saavn.com or Gaana.com")
         elif "punjabi" in j:
-            print("You shound go for djpunjab.com or pagaljatt.com")
+            print("You should go for djpunjab.com or pagaljatt.com")
         elif "english" in j:
-            print("You hsould go for google only I am an Indian")
+            print("You should go for google only I am an Indian")
         else:
             print("Search it on google","\r","I know about only english, hindi, punjabi")
     

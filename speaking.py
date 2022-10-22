@@ -14,6 +14,9 @@ engine = pyttsx3.init()
 api_key = "fa862172403ad7caf125160be68be451"
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
+
+#some readymade replies
+
 GREETING_KEYWORDS = ("hello", "hi", "greetings", "sup", "what's up", "hey", "namaste")
 
 GREETING_RESPONSES = ["Yo!", "hey", "hi", "hello",]
